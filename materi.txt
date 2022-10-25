@@ -1,0 +1,18 @@
+Intro to gcp: https://docs.google.com/document/d/1bYfcHXPj65S6CDPh62F_1CF0SXPKVdkbli1ef6SVc1k/edit
+
+Intro to packet tracer: https://docs.google.com/document/d/1JsgFTgBMvMzUCFDMHNsZp1tt8k4cnfNurs1FtatdNBA/edit
+
+Intro to wireshark: https://docs.google.com/document/d/19eihhdPWTaneeZAXjd70GmtQPn553sBUgqXC4Iay-To/edit
+
+Intro to TCPdump:
+https://docs.google.com/document/d/13BU1mTAd7cVDtV5IX2ePkEJj1Ws0x4TrKuuxURKwP1k/edit
+
+Web server & http message inspection: https://docs.google.com/document/d/1TA6qoG0-5Q-YsdKsKjxDwt4WH4FddbW0beyTsPQPI0o/edit
+
+Introduction to socket programming:
+https://docs.google.com/document/d/1iFLhaIITGa894hJ73DvVCuDy3fxnNehlLGbUY7O8KLI/edit
+
+DNS Server: https://docs.google.com/document/d/1iFLhaIITGa894hJ73DvVCuDy3fxnNehlLGbUY7O8KLI/edit
+
+IP Addressing Method: 
+https://docs.google.com/document/d/1jyzUjHSzjd1xK98rplbx-61ZoxRGhJ6dFmj8Mqg9Gsw/edit
